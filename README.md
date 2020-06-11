@@ -1,2 +1,2 @@
 # hello-world
-Repository for storing hello-world project.
+Repository for storing hello-world project. Hello World!
